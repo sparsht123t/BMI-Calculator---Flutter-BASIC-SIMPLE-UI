@@ -3,6 +3,10 @@
 In this app , user can check his BMI by providing his basic details.
 
 
+✅ Font Awesome
+✅ Font Awesome FLutter
+
+
 
 ## Screenshot
 
