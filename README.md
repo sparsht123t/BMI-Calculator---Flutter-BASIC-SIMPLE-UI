@@ -1,16 +1,32 @@
-# bmi_calc
+# BMI CALCULATOR USING FLUTTER WITH BASIC UI
 
-A new Flutter project.
+In this app , user can check his BMI by providing his basic details.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+| <img src="https://user-images.githubusercontent.com/51333268/134778450-413723a9-5acb-4280-a1e6-60d89b8af60c.PNG"  width="250 " height="400"/> | | <img src="https://user-images.githubusercontent.com/51333268/134778451-d2e3eaaf-b01d-4e43-9cd7-4aebe1e130fe.PNG"  width="250 " height="400"/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+Installation
+
+```
+flutter pub get
+```
+Usage 
+
+```
+flutter run
+```
+
+
+### How To Run
+-----------------------
+#### Clone this repo
+#### Run flutter packages get
+#### Run flutter run (remember open simulator or connect physical device, iOS auto run additional command pod install)
+
+
