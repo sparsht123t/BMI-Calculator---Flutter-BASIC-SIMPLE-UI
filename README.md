@@ -1,6 +1,10 @@
-# BMI CALCULATOR USING FLUTTER WITH BASIC UI
+# BMI CALCULATOR USING FLUTTER WITH BASIC UI(EPHERMAL STATE)
 
 In this app , user can check his BMI by providing his basic details.
+
+
+Ephermal state has been used is in the app to maintain chages to the ui.
+## FOR APPSTATE/SHAREDSTATE of the same project , Do check my another repo : https://github.com/sparsht123t/BMI_Calculator_Flutter-APpState-SharedState-/blob/main/README.md
 
 
 ✅ Font Awesome\
